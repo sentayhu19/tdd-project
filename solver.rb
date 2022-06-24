@@ -1,6 +1,6 @@
 class Solver
   def factorial(num)
-    raise 'Please intert non-negative integer.' if num < 0
+    raise StandardError, 'Please intert non-negative integer.' if num < 0
 
     value = 1
     while num > 0
