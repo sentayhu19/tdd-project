@@ -4,7 +4,7 @@ describe Solver do
 
   describe '' do
     it 'return factorial of ' do
-      expect(solver.factorial(10)).to eq 3628800
+      expect(solver.factorial(10)).to eq 3_628_800
     end
     it 'test for negative number' do
       expect(solver.factorial(-12)).to raise_error
