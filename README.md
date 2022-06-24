@@ -1,39 +1,31 @@
-# Solver - TDD Project
 
-> This is a project build using TDD 
+# TDD project with Rspec
 
-## Getting Started
+In this project, we implemented a class with some methods, by doing test-driven development (TDD). 
 
-To start using this software you need to have Ruby installed in your machine
+### Cloning the project
 
-Then clone this repo:
-
+ git clone https://github.com/sentayhu19/tdd-project.git <Your-Build-Directory>
+``` 
+- cd tdd-project
 ```
--$ git clone git@github.com:sentayhu19/tdd-project.git
-```
+## Prerequisites
 
-```
--$ cd tdd-project
-```
-
-To run rspec, in your terminal for testing the methods:
-
-```
--$ rspec
-```
-
+Vscode or anyother
+Setup
+## Install
+    Ruby
+    Rspec
+## Run tests
+    Run bundle install
+    Run rubocop
 
 ## Authors
 
 👤 **Sentayhu Berhanu**
 
-- GitHub: [@ismailco](https://github.com/sentayhu19)
-- LinkedIn: [ismailcourr](https://www.linkedin.com/in/sentayhu-berhanu-6376579a/)
-
-👤 **Ifza Rasool**
-
-- GitHub: [@ismailco](https://github.com/IfzaRasool)
-- LinkedIn: [ismailcourr](https://www.linkedin.com/in/ifza-arain/)
+- GitHub: [@sentayhu19](https://github.com/sentayhu19)
+- LinkedIn: [sentayhu-berhanu](https://www.linkedin.com/in/sentayhu-berhanu-6376579a/)
 
 👤 **Ismail courr**
 
@@ -41,16 +33,26 @@ To run rspec, in your terminal for testing the methods:
 - Twitter: [@ismailcourr](https://twitter.com/ismailcourr)
 - LinkedIn: [ismailcourr](https://linkedin.com/in/ismailcourr)
 
+👤 **Ifza Rasool**
+
+- GitHub: [@IfzaRasool](https://github.com/IfzaRasool)
+- LinkedIn: [@IfzaRasool](https://www.linkedin.com/in/ifza-arain/)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/sentayhu19/tdd-project/issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
